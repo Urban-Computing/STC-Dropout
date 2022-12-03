@@ -6,7 +6,6 @@
 ## Descriptions
 Source code of the AAAI'23: ST-Curriculum Dropout in Spatial-Temporal Graph Modeling
 
-Currently only the partial codes are uploaded. We will update all the codes upon the acceptance of this paper.
 ## Requirements
 * `Python==3.8`
 * `pytorch==1.7.1`
