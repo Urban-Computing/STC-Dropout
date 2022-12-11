@@ -1,4 +1,4 @@
-# ST-Curriculum Dropout in Spatial-Temporal Graph Modeling
+# Easy Begun is Half Done: Spatial-Temporal Graph Modeling with ST-Curriculum Dropout
 <p align="center">
 <img src="img/framework.png" width="100%" height="50%">
 </p>
@@ -36,4 +36,17 @@ The project structure is organized as follows:
 └── utils
     ├── Metrics.py # evaluation metrics 
     ├── Utils.py  
+```
+
+# Reference
+If you make advantage of the FAGCN model in your research, please cite the following in your manuscript:
+
+```
+@article{wang2022easy,
+  title={Easy Begun is Half Done: Spatial-Temporal Graph Modeling with ST-Curriculum Dropout},
+  author={Wang, Hongjun and Chen, Jiyuan and Pan, Tong and Fan, Zipei and Zhang, Boyuan and Jiang, Renhe and Zhang, Lingyu and Xie, Yi and Wang, Zhongyi and Song, Xuan},
+  booktitle = {{AAAI}},
+  publisher = {{AAAI} Press},
+  year      = {2023}
+}
 ```
