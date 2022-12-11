@@ -39,7 +39,7 @@ The project structure is organized as follows:
 ```
 
 # Reference
-If you make advantage of the FAGCN model in your research, please cite the following in your manuscript:
+If you make advantage of the STC-Dropout in your research, please cite the following in your manuscript:
 
 ```
 @article{wang2022easy,
